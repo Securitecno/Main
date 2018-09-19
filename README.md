@@ -9,7 +9,7 @@ el [Flyer](https://github.com/Securitecno/Main/tree/master/Flyer).
 	- [ ] Implementar un sistema de reserva de turnos en la página.
 
 ### Hexadecimales:
-Fondo blanco: \#ecf0f1
+Fondo blanco: #ecf0f1
 Gris: #95A5A6
 Celeste: #3498DB
 Azul oscuro: #34495E
